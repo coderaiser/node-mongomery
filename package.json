@@ -1,0 +1,31 @@
+{
+  "name": "mongomery",
+  "version": "1.0.0",
+  "description": "Generator based flow-control driver for MongoDB",
+  "main": "lib/mongomery.js",
+  "dependencies": {
+    "mongodb": "~2.0.25",
+    "ruff": "~1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/node-mongomery.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "driver",
+    "generators",
+    "flow-control"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/node-mongomery/issues"
+  },
+  "homepage": "https://github.com/coderaiser/node-mongomery"
+}
