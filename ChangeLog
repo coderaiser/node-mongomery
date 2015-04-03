@@ -1,3 +1,13 @@
+2015.04.03, v1.0.2
+
+fix:
+- (mongomery) mongo -> [mongo
+- (package) ruff v1.4.1
+
+feature:
+- (package) v1.0.1
+
+
 2015.04.03, v1.0.1
 
 fix:
