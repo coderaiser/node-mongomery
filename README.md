@@ -3,6 +3,8 @@ Mongomery
 
 Generator based flow-control driver for [MongoDB](http://mongodb.org "MongoDB").
 
+`Mongomery` has API like [mongodb-native](https://github.com/mongodb/node-mongodb-native "MongoDB Native") has, but based on `es6 generators`.
+
 ## Install
 
 `npm i mongomery --save`
