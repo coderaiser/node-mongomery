@@ -1,6 +1,6 @@
 {
   "name": "mongomery",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generator based flow-control driver for MongoDB",
   "main": "lib/mongomery.js",
   "dependencies": {
